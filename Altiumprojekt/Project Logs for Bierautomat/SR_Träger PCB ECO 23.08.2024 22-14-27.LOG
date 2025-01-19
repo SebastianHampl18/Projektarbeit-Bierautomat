@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetU_SR_?_7 Pin=X_Out-2
+Removed Pin From Net: NetName=NetU_SR_?_16 Pin=X_Out-5
+Added Pin To Net: NetName=NetU_SR_?_16 Pin=X_Out-2
+Added Pin To Net: NetName=NetU_SR_?_7 Pin=X_Out-5
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component X_Data_2 Samtec-IPL1-105-01-L-S-K

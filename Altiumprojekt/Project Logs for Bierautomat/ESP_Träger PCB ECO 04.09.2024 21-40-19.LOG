@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetX_ESP_R?_1 Pin=X_Rest-14
+Removed Pin From Net: NetName=NetX_ESP_L?_1 Pin=X_Rest-16
+Added Pin To Net: NetName=NetX_ESP_L?_1 Pin=X_Rest-14
+Added Pin To Net: NetName=NetX_ESP_R?_1 Pin=X_Rest-16

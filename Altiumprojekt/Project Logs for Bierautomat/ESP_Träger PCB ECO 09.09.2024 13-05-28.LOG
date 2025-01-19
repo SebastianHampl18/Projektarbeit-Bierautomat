@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=ESP_EN Pin=X_ESP_R?-11
+Added Pin To Net: NetName=ESP_DN Pin=X_Free1-06
+Added Pin To Net: NetName=ESP_VP Pin=X_Free1-07
+Added Pin To Net: NetName=ESP_EN Pin=X_Free1-08
+Added Pin To Net: NetName=ESP_EN Pin=X_Free2-11

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED_Data_7 Pin=U_1-1
+Removed Pin From Net: NetName=LED_Data_8 Pin=U_1-2
+Added Pin To Net: NetName=LED_Data_8 Pin=U_1-1
+Added Pin To Net: NetName=LED_Data_7 Pin=U_1-2
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R105 R___=Value

@@ -1,0 +1,82 @@
+Change Component Designator: OldDesignator=X_ESP_L NewDesignator=X_ESP_L?
+Change Component Designator: OldDesignator=X_ESP_R NewDesignator=X_ESP_R?
+Change Component Designator: OldDesignator=X_SR NewDesignator=X_ShiftRegister
+Added Component: Designator=X?(SAMTEC-T1M-12-F-SH-L)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "T1M-12-F-SH-L"; VariantName = "[No Variations]"
+Added Component: Designator=X?(SAMTEC-T1M-12-F-SH-L)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "T1M-12-F-SH-L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX_ESP_L?_1 Pin=X?-01
+Added Pin To Net: NetName=NetX_Door?_1 Pin=X?-03
+Added Pin To Net: NetName=NetX_ESP_L?_1 Pin=X?-09
+Added Pin To Net: NetName=NetX_Door?_1 Pin=X?-11
+Change Net Name : Old Net Name=NetX_Door?_1 New Net Name=GND
+Change Net Name : Old Net Name=NetX_Door?_2 New Net Name=X_Door_Check
+Change Net Name : Old Net Name=NetX_ESP_L?_1 New Net Name=3V3
+Change Net Name : Old Net Name=NetX_ESP_L?_5 New Net Name=SR_CLK
+Change Net Name : Old Net Name=NetX_ESP_L?_6 New Net Name=SR_SHIFT
+Change Net Name : Old Net Name=NetX_ESP_L?_8 New Net Name=SR_SOut
+Change Net Name : Old Net Name=NetX_ESP_L?_9 New Net Name=RFID_SCK
+Change Net Name : Old Net Name=NetX_ESP_L?_10 New Net Name=RFID_MISO
+Change Net Name : Old Net Name=NetX_ESP_L?_11 New Net Name=RFID_SDA
+Change Net Name : Old Net Name=NetX_ESP_L?_14 New Net Name=RFID_RST
+Change Net Name : Old Net Name=NetX_ESP_L?_15 New Net Name=RFID_MOSI
+Added Pin To Net: NetName=ESP_DN Pin=X?-10
+Added Pin To Net: NetName=ESP_DN Pin=X_ESP_R?-13
+Added Net: Name=ESP_DN
+Added Pin To Net: NetName=ESP_EN Pin=X?-12
+Added Pin To Net: NetName=ESP_EN Pin=X_ESP_R?-15
+Added Net: Name=ESP_EN
+Added Pin To Net: NetName=ESP_IO2 Pin=X?-04
+Added Pin To Net: NetName=ESP_IO2 Pin=X_ESP_L?-4
+Added Net: Name=ESP_IO2
+Added Pin To Net: NetName=ESP_IO12 Pin=X?-07
+Added Pin To Net: NetName=ESP_IO12 Pin=X_ESP_R?-4
+Added Net: Name=ESP_IO12
+Added Pin To Net: NetName=ESP_IO13 Pin=X?-06
+Added Pin To Net: NetName=ESP_IO13 Pin=X_ESP_R?-3
+Added Net: Name=ESP_IO13
+Added Pin To Net: NetName=ESP_IO14 Pin=X?-08
+Added Pin To Net: NetName=ESP_IO14 Pin=X_ESP_R?-5
+Added Net: Name=ESP_IO14
+Added Pin To Net: NetName=ESP_IO15 Pin=X?-05
+Added Pin To Net: NetName=ESP_IO15 Pin=X_ESP_L?-3
+Added Net: Name=ESP_IO15
+Added Pin To Net: NetName=ESP_IO25 Pin=X?-06
+Added Pin To Net: NetName=ESP_IO25 Pin=X_ESP_R?-8
+Added Net: Name=ESP_IO25
+Added Pin To Net: NetName=ESP_IO26 Pin=X?-05
+Added Pin To Net: NetName=ESP_IO26 Pin=X_ESP_R?-7
+Added Net: Name=ESP_IO26
+Added Pin To Net: NetName=ESP_IO27 Pin=X?-04
+Added Pin To Net: NetName=ESP_IO27 Pin=X_ESP_R?-6
+Added Net: Name=ESP_IO27
+Added Pin To Net: NetName=ESP_IO33 Pin=X?-07
+Added Pin To Net: NetName=ESP_IO33 Pin=X_ESP_R?-9
+Added Net: Name=ESP_IO33
+Added Pin To Net: NetName=ESP_IO34 Pin=X?-09
+Added Pin To Net: NetName=ESP_IO34 Pin=X_ESP_R?-12
+Added Net: Name=ESP_IO34
+Added Pin To Net: NetName=ESP_IO35 Pin=X?-08
+Added Pin To Net: NetName=ESP_IO35 Pin=X_ESP_R?-11
+Added Net: Name=ESP_IO35
+Added Pin To Net: NetName=ESP_RX0 Pin=X?-02
+Added Pin To Net: NetName=ESP_RX0 Pin=X_ESP_L?-12
+Added Net: Name=ESP_RX0
+Added Pin To Net: NetName=ESP_TX0 Pin=X?-01
+Added Pin To Net: NetName=ESP_TX0 Pin=X_ESP_L?-13
+Added Net: Name=ESP_TX0
+Added Pin To Net: NetName=ESP_TX2 Pin=X?-03
+Added Pin To Net: NetName=ESP_TX2 Pin=X_ESP_L?-7
+Added Net: Name=ESP_TX2
+Added Pin To Net: NetName=ESP_VP Pin=X?-11
+Added Pin To Net: NetName=ESP_VP Pin=X_ESP_R?-14
+Added Net: Name=ESP_VP
+Added Pin To Net: NetName=VIN Pin=X?-02
+Added Pin To Net: NetName=VIN Pin=X?-10
+Added Pin To Net: NetName=VIN Pin=X_ESP_R?-1
+Added Pin To Net: NetName=VIN Pin=X_In-1
+Added Net: Name=VIN
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X? Samtec-T1M-12-F-SH-L
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X? Samtec-T1M-12-F-SH-L

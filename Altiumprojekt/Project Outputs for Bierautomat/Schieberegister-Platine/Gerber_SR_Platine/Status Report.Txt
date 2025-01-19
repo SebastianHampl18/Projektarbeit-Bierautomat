@@ -1,0 +1,10 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [SR_Träger.PcbDoc]
+   Generated File[SR_Träger.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:22:52 On 19.01.2025

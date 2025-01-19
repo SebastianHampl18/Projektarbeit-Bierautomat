@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LED_In Pin=X_SR-1
+Removed Pin From Net: NetName=SR_SOut Pin=X_SR-2
+Removed Pin From Net: NetName=SR_CLK Pin=X_SR-3
+Removed Pin From Net: NetName=GND Pin=X_SR-4
+Removed Pin From Net: NetName=3V3 Pin=X_SR-5
+Removed Pin From Net: NetName=VIN Pin=X_SR-6
+Added Pin To Net: NetName=VIN Pin=X_SR-1
+Added Pin To Net: NetName=LED_In Pin=X_SR-2
+Added Pin To Net: NetName=SR_SOut Pin=X_SR-3
+Added Pin To Net: NetName=SR_CLK Pin=X_SR-4
+Added Pin To Net: NetName=GND Pin=X_SR-5
+Added Pin To Net: NetName=3V3 Pin=X_SR-6

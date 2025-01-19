@@ -1,0 +1,115 @@
+Added Component: Designator=R0(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603_resistor_flat)
+Add component (AddParameter): Name = "Case_EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case_Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E12"; Value = "1K0, 1K2, 1K5, 1K8, 2K2, 2K7, 3K3, 3K9, 4K7, 5K6, 6K8, 8K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R_0603_1%_xx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "xx"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU_SR_8 Pin=R0-2
+Added Pin To Net: NetName=NetU_SR_8 Pin=R1-2
+Added Pin To Net: NetName=NetU_SR_8 Pin=R2-2
+Added Pin To Net: NetName=NetU_SR_8 Pin=R3-2
+Added Pin To Net: NetName=NetU_SR_8 Pin=R4-2
+Added Pin To Net: NetName=NetU_SR_8 Pin=R5-2
+Added Pin To Net: NetName=NetU_SR_8 Pin=R6-2
+Added Pin To Net: NetName=NetU_SR_8 Pin=R7-1
+Added Pin To Net: NetName=NetU_SR_8 Pin=R7-2
+Change Net Name : Old Net Name=NetU_SR_8 New Net Name=NetR0_2
+Added Pin To Net: NetName=NetR0_1 Pin=R0-1
+Added Pin To Net: NetName=NetR0_1 Pin=U_SR-11
+Added Pin To Net: NetName=NetR0_1 Pin=X_Data_1-4
+Added Net: Name=NetR0_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U_SR-12
+Added Pin To Net: NetName=NetR1_1 Pin=X_Data_1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U_SR-13
+Added Pin To Net: NetName=NetR2_1 Pin=X_Data_1-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U_SR-14
+Added Pin To Net: NetName=NetR3_1 Pin=X_Data_1-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-1
+Added Pin To Net: NetName=NetR4_1 Pin=U_SR-3
+Added Pin To Net: NetName=NetR4_1 Pin=X_Data_2-5
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U_SR-4
+Added Pin To Net: NetName=NetR5_1 Pin=X_Data_2-4
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R0 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R1 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R2 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R3 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R4 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R5 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R6 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R7 R_0603_1%_xx

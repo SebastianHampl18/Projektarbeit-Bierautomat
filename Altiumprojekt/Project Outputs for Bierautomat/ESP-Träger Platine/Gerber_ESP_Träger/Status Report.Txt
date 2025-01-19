@@ -1,0 +1,10 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [ESP_Träger.PcbDoc]
+   Generated File[ESP_Träger.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:18:43 On 19.01.2025

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetU_SR_?_1 Pin=X_In-1
+Removed Pin From Net: NetName=NetU_SR_?_2 Pin=X_In-2
+Removed Pin From Net: NetName=NetU_SR_?_16 Pin=X_In-3
+Removed Pin From Net: NetName=NetU_SR_?_10 Pin=X_In-4
+Added Pin To Net: NetName=NetU_SR_?_10 Pin=X_In-1
+Added Pin To Net: NetName=NetU_SR_?_1 Pin=X_In-2
+Added Pin To Net: NetName=NetU_SR_?_2 Pin=X_In-3
+Added Pin To Net: NetName=NetU_SR_?_16 Pin=X_In-4

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:22:43 On 19.01.2025
+
+Output: STEP_model
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [SR_Träger.PcbDoc]
+   Generated File[Model_Bierautomat.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:22:49 On 19.01.2025

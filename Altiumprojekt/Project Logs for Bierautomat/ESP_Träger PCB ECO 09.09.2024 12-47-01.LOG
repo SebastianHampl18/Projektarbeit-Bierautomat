@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X_Free1
+Change Component Designator: OldDesignator=X? NewDesignator=X_Free2
+Change Component Designator: OldDesignator=X_SR NewDesignator=X_ShiftRegister
+Added Component: Designator=J?(MOLX-52030-1229)
+Add component (AddParameter): Name = "Circuits (Loaded)"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/molex/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0520301229_FFC_FPC_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/520301229_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Position"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Max per Contact)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability (mating cycles max)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Entry Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Height"; Value = "5.20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Metal"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Plating Mating"; Value = "Tin-Bismuth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Plating Termination"; Value = "Tin-Bismuth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Lead FPC Connector, Pitch 1.0 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "52030-1229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. B, 10/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "52030-1229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Retention"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating Interface"; Value = "1.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized to PCB"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stackable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (Max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component J? 52030-1229
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_Free1 Samtec-T1M-12-F-SH-L
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_ShiftRegister Samtec-IPL1-105-01-L-S-K

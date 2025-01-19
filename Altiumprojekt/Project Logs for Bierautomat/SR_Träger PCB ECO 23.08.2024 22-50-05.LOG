@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetU_SR_?_8 Pin=X_Data_1-1
+Removed Pin From Net: NetName=NetU_SR_?_14 Pin=X_Data_1-2
+Removed Pin From Net: NetName=NetU_SR_?_13 Pin=X_Data_1-3
+Removed Pin From Net: NetName=NetU_SR_?_12 Pin=X_Data_1-4
+Removed Pin From Net: NetName=NetU_SR_?_11 Pin=X_Data_1-5
+Added Pin To Net: NetName=NetU_SR_?_14 Pin=X_Data_1-1
+Added Pin To Net: NetName=NetU_SR_?_13 Pin=X_Data_1-2
+Added Pin To Net: NetName=NetU_SR_?_12 Pin=X_Data_1-3
+Added Pin To Net: NetName=NetU_SR_?_11 Pin=X_Data_1-4
+Added Pin To Net: NetName=NetU_SR_?_8 Pin=X_Data_1-5

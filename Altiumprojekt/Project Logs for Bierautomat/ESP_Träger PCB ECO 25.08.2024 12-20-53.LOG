@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetX_ESP_R?_4 Pin=X_Rest?-1
+Removed Pin From Net: NetName=NetX_ESP_R?_5 Pin=X_Rest?-2
+Removed Pin From Net: NetName=NetX_ESP_R?_3 Pin=X_Rest?-3
+Removed Pin From Net: NetName=NetX_ESP_R?_6 Pin=X_Rest?-4
+Removed Pin From Net: NetName=NetX_ESP_L?_3 Pin=X_Rest?-5
+Removed Pin From Net: NetName=NetX_ESP_R?_7 Pin=X_Rest?-6
+Removed Pin From Net: NetName=NetX_ESP_L?_4 Pin=X_Rest?-7
+Removed Pin From Net: NetName=NetX_ESP_R?_8 Pin=X_Rest?-8
+Removed Pin From Net: NetName=NetX_ESP_L?_7 Pin=X_Rest?-9
+Removed Pin From Net: NetName=NetX_ESP_R?_9 Pin=X_Rest?-10
+Removed Pin From Net: NetName=NetX_ESP_R?_11 Pin=X_Rest?-12
+Removed Pin From Net: NetName=NetX_ESP_R?_12 Pin=X_Rest?-14
+Removed Pin From Net: NetName=NetX_ESP_R?_13 Pin=X_Rest?-16
+Removed Pin From Net: NetName=NetX_ESP_L?_12 Pin=X_Rest?-17
+Removed Pin From Net: NetName=NetX_ESP_R?_14 Pin=X_Rest?-18
+Removed Pin From Net: NetName=NetX_ESP_L?_13 Pin=X_Rest?-19
+Removed Pin From Net: NetName=NetX_ESP_R?_15 Pin=X_Rest?-20
+Added Component: Designator=X_Rest?(Samtec-TFM-110-01-X-D-WT)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX_ESP_R?_15 Pin=X_Rest?-1
+Added Pin To Net: NetName=NetX_ESP_L?_13 Pin=X_Rest?-2
+Added Pin To Net: NetName=NetX_ESP_R?_14 Pin=X_Rest?-3
+Added Pin To Net: NetName=NetX_ESP_L?_12 Pin=X_Rest?-4
+Added Pin To Net: NetName=NetX_ESP_R?_13 Pin=X_Rest?-5
+Added Pin To Net: NetName=NetX_ESP_R?_12 Pin=X_Rest?-7
+Added Pin To Net: NetName=NetX_ESP_R?_11 Pin=X_Rest?-9
+Added Pin To Net: NetName=NetX_ESP_R?_9 Pin=X_Rest?-11
+Added Pin To Net: NetName=NetX_ESP_L?_7 Pin=X_Rest?-12
+Added Pin To Net: NetName=NetX_ESP_R?_8 Pin=X_Rest?-13
+Added Pin To Net: NetName=NetX_ESP_L?_4 Pin=X_Rest?-14
+Added Pin To Net: NetName=NetX_ESP_R?_7 Pin=X_Rest?-15
+Added Pin To Net: NetName=NetX_ESP_L?_3 Pin=X_Rest?-16
+Added Pin To Net: NetName=NetX_ESP_R?_6 Pin=X_Rest?-17
+Added Pin To Net: NetName=NetX_ESP_R?_3 Pin=X_Rest?-18
+Added Pin To Net: NetName=NetX_ESP_R?_5 Pin=X_Rest?-19
+Added Pin To Net: NetName=NetX_ESP_R?_4 Pin=X_Rest?-20
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_RFID? Samtec-IPL1-108-01-L-S-K

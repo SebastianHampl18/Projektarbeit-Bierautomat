@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=VIN Pin=X_In-1
+Removed Pin From Net: NetName=GND Pin=X_In-2
+Removed Pin From Net: NetName=SR_CLK Pin=X_SR-4
+Removed Pin From Net: NetName=GND Pin=X_SR-5
+Removed Pin From Net: NetName=3V3 Pin=X_SR-6
+Removed Member From Class: ClassName=ESP_Trägerplatine Member=X_In
+Change Component Footprint: Designator=X_SR Old Footprint=Samtec-IPL1-106-01-L-S-K New Footprint=Samtec-IPL1-108-01-L-S-K
+Change Component Footprint: Designator=X_Door Old Footprint=Samtec-T1M-02-T-SH-L New Footprint=Samtec-IPL1-102-01-L-S-K
+Change Component Comment : Designator=X_SR Old Comment=Samtec-IPL1-106-01-L-S-K New Comment=Samtec-IPL1-108-01-L-S-K
+Change Component Comment : Designator=X_Door Old Comment=Samtec-T1M-02-T-SH-L New Comment=Samtec-IPL1-102-01-L-S-K
+Change Component Designator: OldDesignator=X_ESP_L NewDesignator=X_ESP_L?
+Change Component Designator: OldDesignator=X_ESP_R NewDesignator=X_ESP_R?
+Change component parameters: Designator = "X_Door" ("X_Door"); Footprint = "Samtec-T1M-02-T-SH-L"; UniqueID = "\RWABXEHI" ("\RWABXEHI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "IPL1-102-01-L-S-K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X_SR" ("X_SR"); Footprint = "Samtec-IPL1-106-01-L-S-K"; UniqueID = "\PIEDQEWV" ("\PIEDQEWV")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Samtec-IPL1-108-01-L-S-K"; VariantName = "[No Variations]"
+Added Component: Designator=X_Free(Samtec-IPL1-112-01-L-D-K)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Samtec-IPL1-112-01-L-D-K"; VariantName = "[No Variations]"
+Added Component: Designator=X_PWR(Samtec-IPL1-102-01-L-S-K)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IPL1-102-01-L-S-K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESP_TX0 Pin=X_Free-1
+Added Pin To Net: NetName=ESP_RX0 Pin=X_Free-2
+Added Pin To Net: NetName=ESP_TX2 Pin=X_Free-3
+Added Pin To Net: NetName=ESP_IO2 Pin=X_Free-4
+Added Pin To Net: NetName=ESP_IO15 Pin=X_Free-5
+Added Pin To Net: NetName=GND Pin=X_Free-10
+Added Pin To Net: NetName=VIN Pin=X_Free-11
+Added Pin To Net: NetName=3V3 Pin=X_Free-12
+Added Pin To Net: NetName=ESP_IO12 Pin=X_Free-14
+Added Pin To Net: NetName=ESP_IO14 Pin=X_Free-15
+Added Pin To Net: NetName=ESP_IO27 Pin=X_Free-16
+Added Pin To Net: NetName=ESP_IO26 Pin=X_Free-17
+Added Pin To Net: NetName=ESP_IO25 Pin=X_Free-18
+Added Pin To Net: NetName=ESP_IO33 Pin=X_Free-19
+Added Pin To Net: NetName=ESP_IO35 Pin=X_Free-20
+Added Pin To Net: NetName=ESP_IO34 Pin=X_Free-21
+Added Pin To Net: NetName=ESP_DN Pin=X_Free-22
+Added Pin To Net: NetName=ESP_VP Pin=X_Free-23
+Added Pin To Net: NetName=ESP_EN Pin=X_Free-24
+Added Pin To Net: NetName=VIN Pin=X_PWR-1
+Added Pin To Net: NetName=GND Pin=X_PWR-2
+Added Pin To Net: NetName=SR_SHIFT Pin=X_SR-5
+Added Pin To Net: NetName=SR_CLK Pin=X_SR-6
+Added Pin To Net: NetName=GND Pin=X_SR-7
+Added Pin To Net: NetName=3V3 Pin=X_SR-8
+Added Pin To Net: NetName=LED_Enable Pin=X_ESP_R?-3
+Added Pin To Net: NetName=LED_Enable Pin=X_Free-13
+Added Pin To Net: NetName=LED_Enable Pin=X_SR-2
+Added Net: Name=LED_Enable
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_Free Samtec-IPL1-112-01-L-D-K
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_PWR Samtec-IPL1-102-01-L-S-K

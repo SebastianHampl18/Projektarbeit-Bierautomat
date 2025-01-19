@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SR_SOut Pin=X_SR-1
+Removed Pin From Net: NetName=LED_In Pin=X_SR-2
+Added Pin To Net: NetName=LED_In Pin=X_SR-1
+Added Pin To Net: NetName=SR_SOut Pin=X_SR-2

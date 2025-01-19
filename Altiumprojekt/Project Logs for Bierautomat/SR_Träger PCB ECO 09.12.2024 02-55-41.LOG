@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=R_Photo_4 Pin=X_Data_14-1
+Removed Pin From Net: NetName=LED4 Pin=X_Data_14-2
+Removed Pin From Net: NetName=R_Photo_3 Pin=X_Data_14-3
+Removed Pin From Net: NetName=LED3 Pin=X_Data_14-4
+Removed Pin From Net: NetName=R_Photo_2 Pin=X_Data_14-5
+Removed Pin From Net: NetName=LED2 Pin=X_Data_14-6
+Removed Pin From Net: NetName=R_Photo_1 Pin=X_Data_14-7
+Removed Pin From Net: NetName=LED1 Pin=X_Data_14-8
+Added Pin To Net: NetName=R_Photo_1 Pin=X_Data_14-1
+Added Pin To Net: NetName=LED1 Pin=X_Data_14-2
+Added Pin To Net: NetName=R_Photo_2 Pin=X_Data_14-3
+Added Pin To Net: NetName=LED2 Pin=X_Data_14-4
+Added Pin To Net: NetName=R_Photo_3 Pin=X_Data_14-5
+Added Pin To Net: NetName=LED3 Pin=X_Data_14-6
+Added Pin To Net: NetName=R_Photo_4 Pin=X_Data_14-7
+Added Pin To Net: NetName=LED4 Pin=X_Data_14-8

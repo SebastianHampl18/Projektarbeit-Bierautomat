@@ -1,0 +1,31 @@
+Added Component: Designator=X_Free1(SAMTEC-T1M-12-F-SH-L)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "T1M-12-F-SH-L"; VariantName = "[No Variations]"
+Added Component: Designator=X_Free2(SAMTEC-T1M-12-F-SH-L)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "T1M-12-F-SH-L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESP_TX0 Pin=X_Free1-01
+Added Pin To Net: NetName=ESP_RX0 Pin=X_Free1-02
+Added Pin To Net: NetName=ESP_TX2 Pin=X_Free1-03
+Added Pin To Net: NetName=ESP_IO2 Pin=X_Free1-04
+Added Pin To Net: NetName=ESP_IO15 Pin=X_Free1-05
+Added Pin To Net: NetName=ESP_IO13 Pin=X_Free1-06
+Added Pin To Net: NetName=ESP_IO12 Pin=X_Free1-07
+Added Pin To Net: NetName=ESP_IO14 Pin=X_Free1-08
+Added Pin To Net: NetName=3V3 Pin=X_Free1-09
+Added Pin To Net: NetName=VIN Pin=X_Free1-10
+Added Pin To Net: NetName=GND Pin=X_Free1-11
+Added Pin To Net: NetName=3V3 Pin=X_Free2-01
+Added Pin To Net: NetName=VIN Pin=X_Free2-02
+Added Pin To Net: NetName=GND Pin=X_Free2-03
+Added Pin To Net: NetName=ESP_IO27 Pin=X_Free2-04
+Added Pin To Net: NetName=ESP_IO26 Pin=X_Free2-05
+Added Pin To Net: NetName=ESP_IO25 Pin=X_Free2-06
+Added Pin To Net: NetName=ESP_IO33 Pin=X_Free2-07
+Added Pin To Net: NetName=ESP_IO35 Pin=X_Free2-08
+Added Pin To Net: NetName=ESP_IO34 Pin=X_Free2-09
+Added Pin To Net: NetName=ESP_DN Pin=X_Free2-10
+Added Pin To Net: NetName=ESP_VP Pin=X_Free2-11
+Added Pin To Net: NetName=ESP_EN Pin=X_Free2-12
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_Free1 Samtec-T1M-12-F-SH-L
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_Free2 Samtec-T1M-12-F-SH-L

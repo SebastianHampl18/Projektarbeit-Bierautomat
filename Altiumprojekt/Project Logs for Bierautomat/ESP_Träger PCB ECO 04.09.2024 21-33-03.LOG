@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=X_Door NewDesignator=X_Door?
+Change Component Designator: OldDesignator=X_ESP_L NewDesignator=X_ESP_L?
+Change Component Designator: OldDesignator=X_ESP_R NewDesignator=X_ESP_R?
+Change Component Designator: OldDesignator=X_In NewDesignator=X_In?
+Change Component Designator: OldDesignator=X_RFID NewDesignator=X_RFID?
+Added Component: Designator=X_ShiftRegister(Samtec-IPL1-105-01-L-S-K)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IPL1-105-01-L-S-K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX_Door?_1 Pin=X_Rest-10
+Added Pin To Net: NetName=NetX_ESP_R?_1 Pin=X_Rest-14
+Added Pin To Net: NetName=NetX_ESP_L?_1 Pin=X_Rest-16
+Added Pin To Net: NetName=NetX_ESP_L?_8 Pin=X_ShiftRegister-1
+Added Pin To Net: NetName=NetX_ESP_L?_6 Pin=X_ShiftRegister-2
+Added Pin To Net: NetName=NetX_ESP_L?_5 Pin=X_ShiftRegister-3
+Added Pin To Net: NetName=NetX_Door?_1 Pin=X_ShiftRegister-4
+Added Pin To Net: NetName=NetX_ESP_L?_1 Pin=X_ShiftRegister-5
+Added Member To Class: ClassName=ESP_Trägerplatine Member=Component X_ShiftRegister Samtec-IPL1-105-01-L-S-K

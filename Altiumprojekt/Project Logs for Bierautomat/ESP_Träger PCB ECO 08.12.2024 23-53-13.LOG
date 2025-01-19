@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=X_Door Old Footprint=Samtec-IPL1-102-01-L-S-K New Footprint=Samtec-IPL1-102-01-L-S-RA-K
+Change Component Footprint: Designator=X_PWR Old Footprint=Samtec-IPL1-102-01-L-S-K New Footprint=Samtec-IPL1-102-01-L-S-RA-K
+Change Component Comment : Designator=X_Door Old Comment=Samtec-IPL1-102-01-L-S-K New Comment=Samtec-IPL1-102-01-L-S-RA-K
+Change Component Comment : Designator=X_PWR Old Comment=Samtec-IPL1-102-01-L-S-K New Comment=Samtec-IPL1-102-01-L-S-RA-K
+Change component parameters: Designator = "X_Door" ("X_Door"); Footprint = "Samtec-IPL1-102-01-L-S-K"; UniqueID = "\EIWPKTZN" ("\EIWPKTZN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "IPL1-102-01-L-S-RA-K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X_PWR" ("X_PWR"); Footprint = "Samtec-IPL1-102-01-L-S-K"; UniqueID = "\ILCCCURE" ("\ILCCCURE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "IPL1-102-01-L-S-RA-K"; VariantName = "[No Variations]"

@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator= NewDesignator=R_Data1
+Change Component Designator: OldDesignator= NewDesignator=R_Data2
+Change Component Designator: OldDesignator= NewDesignator=R_Data3
+Change Component Designator: OldDesignator= NewDesignator=R_Data4
+Change Component Designator: OldDesignator= NewDesignator=R_Data5
+Change Component Designator: OldDesignator= NewDesignator=R_Data6
+Change Component Designator: OldDesignator= NewDesignator=R_Data7
+Change Component Designator: OldDesignator= NewDesignator=R_Data8
+Change Component Designator: OldDesignator= NewDesignator=R_Power
+Change Component Designator: OldDesignator=1 NewDesignator=D_1
+Change Component Designator: OldDesignator=2 NewDesignator=D_2
+Change Component Designator: OldDesignator=3 NewDesignator=D_3
+Change Component Designator: OldDesignator=4 NewDesignator=D_4
+Change Component Designator: OldDesignator=5 NewDesignator=D_5
+Change Component Designator: OldDesignator=6 NewDesignator=D_6
+Change Component Designator: OldDesignator=7 NewDesignator=D_7
+Change Component Designator: OldDesignator=8 NewDesignator=D_8
+Change Component Designator: OldDesignator=PWR NewDesignator=D_Power
+Added Pin To Net: NetName=GND Pin=D_8-1
+Added Pin To Net: NetName=NetD_8_2 Pin=D_8-2
+Added Pin To Net: NetName=NetD_8_2 Pin=R_Data8-1
+Added Pin To Net: NetName=LED_Data_8 Pin=R_Data8-2
+Added Pin To Net: NetName=GND Pin=R_PullDown_8-1
+Added Pin To Net: NetName=LED_Data_8 Pin=R_PullDown_8-2
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component D_8 Green, 3.3V, 40°
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data1 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data2 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data3 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data4 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data5 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data6 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data7 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Data8 R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_Power R_0603_1%_xx
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component R_PullDown_8 R___=Value
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component X6 MOLEX 42385-04

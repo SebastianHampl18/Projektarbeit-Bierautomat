@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=X_SR Old Footprint=Samtec-IPL1-105-01-L-S-K New Footprint=Samtec-IPL1-106-01-L-S-K
+Change Component Comment : Designator=X_SR Old Comment=Samtec-IPL1-105-01-L-S-K New Comment=Samtec-IPL1-106-01-L-S-K
+Change Component Designator: OldDesignator=X_ESP_L NewDesignator=X_ESP_L?
+Change Component Designator: OldDesignator=X_ESP_R NewDesignator=X_ESP_R?
+Added Pin To Net: NetName=VIN Pin=X_SR-6
+Added Member To Class: ClassName=U_ESP_32 Member=Component X_ESP_L? 61301611821
+Added Member To Class: ClassName=U_ESP_32 Member=Component X_ESP_R? 61301611821

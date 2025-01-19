@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=GND Pin=X1-3
+Removed Pin From Net: NetName=GND Pin=X2-3
+Removed Pin From Net: NetName=GND Pin=X3-3
+Removed Pin From Net: NetName=GND Pin=X4-3
+Removed Pin From Net: NetName=GND Pin=X5-3
+Removed Pin From Net: NetName=GND Pin=X6-3
+Removed Pin From Net: NetName=GND Pin=X7-3
+Removed Pin From Net: NetName=GND Pin=X8-3
+Removed Pin From Net: NetName=Serial_in Pin=X_In-1
+Removed Pin From Net: NetName=LED_In Pin=X_In-2
+Removed Pin From Net: NetName=CLK Pin=X_In-3
+Removed Pin From Net: NetName=VCC Pin=X_In-4
+Removed Pin From Net: NetName=GND Pin=X_In-5
+Removed Pin From Net: NetName=LED_In Pin=X_Out-4
+Change Component Footprint: Designator=X_In Old Footprint=Samtec-IPL1-105-01-L-S-K New Footprint=Samtec-IPL1-106-01-L-S-K
+Change Component Footprint: Designator=X_Out Old Footprint=Samtec-IPL1-105-01-L-S-K New Footprint=Samtec-IPL1-106-01-L-S-K
+Change Component Comment : Designator=X_In Old Comment=Samtec-IPL1-105-01-L-S-K New Comment=Samtec-IPL1-106-01-L-S-K
+Change Component Comment : Designator=X_Out Old Comment=Samtec-IPL1-105-01-L-S-K New Comment=Samtec-IPL1-106-01-L-S-K
+Change component parameters: Designator = "X_In" ("X_In"); Footprint = "Samtec-IPL1-105-01-L-S-K"; UniqueID = "\KLBJDVEC" ("\KLBJDVEC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "IPL1-106-01-L-S-K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X_Out" ("X_Out"); Footprint = "Samtec-IPL1-105-01-L-S-K"; UniqueID = "\YHYNUEMF" ("\YHYNUEMF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "IPL1-106-01-L-S-K"; VariantName = "[No Variations]"
+Added Component: Designator=Q_LED(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AO3418"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ao3418/alpha-and-omega-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/ao3418/alpha-and-omega-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Alpha & Omega Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AO3418"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q_LED-2
+Added Pin To Net: NetName=LED_In Pin=Q_LED-3
+Added Pin To Net: NetName=Serial_in Pin=X_In-2
+Added Pin To Net: NetName=CLK Pin=X_In-4
+Added Pin To Net: NetName=VCC Pin=X_In-5
+Added Pin To Net: NetName=GND Pin=X_In-6
+Added Pin To Net: NetName=5V Pin=X1-3
+Added Pin To Net: NetName=5V Pin=X2-3
+Added Pin To Net: NetName=5V Pin=X3-3
+Added Pin To Net: NetName=5V Pin=X4-3
+Added Pin To Net: NetName=5V Pin=X5-3
+Added Pin To Net: NetName=5V Pin=X6-3
+Added Pin To Net: NetName=5V Pin=X7-3
+Added Pin To Net: NetName=5V Pin=X8-3
+Added Pin To Net: NetName=5V Pin=X_In-1
+Added Pin To Net: NetName=5V Pin=X_Out-6
+Added Net: Name=5V
+Added Pin To Net: NetName=LED_Enable Pin=Q_LED-1
+Added Pin To Net: NetName=LED_Enable Pin=X_In-3
+Added Pin To Net: NetName=LED_Enable Pin=X_Out-4
+Added Net: Name=LED_Enable
+Added Member To Class: ClassName=Schieberegister_Trägerplatine Member=Component Q_LED AO3418

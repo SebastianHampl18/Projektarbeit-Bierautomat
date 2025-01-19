@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LED_In Pin=X_ESP_L-6
+Added Pin To Net: NetName=SR_SHIFT Pin=X_ESP_L-6
+Added Net: Name=SR_SHIFT

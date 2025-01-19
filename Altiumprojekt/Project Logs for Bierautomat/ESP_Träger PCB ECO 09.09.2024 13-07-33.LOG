@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ESP_EN Pin=X_ESP_R?-11
+Removed Pin From Net: NetName=ESP_EN Pin=X_Free2-11
+Added Pin To Net: NetName=ESP_IO35 Pin=X_ESP_R?-11
+Added Pin To Net: NetName=ESP_IO35 Pin=X_Free2-11

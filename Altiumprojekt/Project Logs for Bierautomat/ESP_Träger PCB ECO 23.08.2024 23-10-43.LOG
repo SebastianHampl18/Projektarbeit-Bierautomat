@@ -1,0 +1,71 @@
+Added Component: Designator=X_Door?(Samtec-T1M-02-T-SH-L)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "T1M-02-T-SH-L"; VariantName = "[No Variations]"
+Added Component: Designator=X_In?(Samtec-T1M-02-T-SH-L)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "T1M-02-T-SH-L"; VariantName = "[No Variations]"
+Added Component: Designator=X_Rest?(Samtec-TFM-110-01-X-D-WT)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=X_RFID?(Samtec-IPL1-108-01-L-S-K)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IPL1-108-01-L-S-K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX_Door?_1 Pin=X_Door?-1
+Added Pin To Net: NetName=NetX_Door?_1 Pin=X_In?-2
+Added Net: Name=NetX_Door?_1
+Added Pin To Net: NetName=NetX_Door?_2 Pin=X_Door?-2
+Added Net: Name=NetX_Door?_2
+Added Pin To Net: NetName=NetX_In?_1 Pin=X_In?-1
+Added Net: Name=NetX_In?_1
+Added Pin To Net: NetName=NetX_Rest?_1 Pin=X_Rest?-1
+Added Net: Name=NetX_Rest?_1
+Added Pin To Net: NetName=NetX_Rest?_2 Pin=X_Rest?-2
+Added Net: Name=NetX_Rest?_2
+Added Pin To Net: NetName=NetX_Rest?_3 Pin=X_Rest?-3
+Added Net: Name=NetX_Rest?_3
+Added Pin To Net: NetName=NetX_Rest?_4 Pin=X_Rest?-4
+Added Net: Name=NetX_Rest?_4
+Added Pin To Net: NetName=NetX_Rest?_5 Pin=X_Rest?-5
+Added Net: Name=NetX_Rest?_5
+Added Pin To Net: NetName=NetX_Rest?_7 Pin=X_Rest?-7
+Added Net: Name=NetX_Rest?_7
+Added Pin To Net: NetName=NetX_Rest?_9 Pin=X_Rest?-9
+Added Net: Name=NetX_Rest?_9
+Added Pin To Net: NetName=NetX_Rest?_11 Pin=X_Rest?-11
+Added Net: Name=NetX_Rest?_11
+Added Pin To Net: NetName=NetX_Rest?_12 Pin=X_Rest?-12
+Added Net: Name=NetX_Rest?_12
+Added Pin To Net: NetName=NetX_Rest?_13 Pin=X_Rest?-13
+Added Net: Name=NetX_Rest?_13
+Added Pin To Net: NetName=NetX_Rest?_14 Pin=X_Rest?-14
+Added Net: Name=NetX_Rest?_14
+Added Pin To Net: NetName=NetX_Rest?_15 Pin=X_Rest?-15
+Added Net: Name=NetX_Rest?_15
+Added Pin To Net: NetName=NetX_Rest?_16 Pin=X_Rest?-16
+Added Net: Name=NetX_Rest?_16
+Added Pin To Net: NetName=NetX_Rest?_17 Pin=X_Rest?-17
+Added Net: Name=NetX_Rest?_17
+Added Pin To Net: NetName=NetX_Rest?_18 Pin=X_Rest?-18
+Added Net: Name=NetX_Rest?_18
+Added Pin To Net: NetName=NetX_Rest?_19 Pin=X_Rest?-19
+Added Net: Name=NetX_Rest?_19
+Added Pin To Net: NetName=NetX_Rest?_20 Pin=X_Rest?-20
+Added Net: Name=NetX_Rest?_20
+Added Pin To Net: NetName=NetX_RFID?_1 Pin=X_RFID?-1
+Added Net: Name=NetX_RFID?_1
+Added Pin To Net: NetName=NetX_RFID?_2 Pin=X_RFID?-2
+Added Net: Name=NetX_RFID?_2
+Added Pin To Net: NetName=NetX_RFID?_3 Pin=X_RFID?-3
+Added Net: Name=NetX_RFID?_3
+Added Pin To Net: NetName=NetX_RFID?_5 Pin=X_RFID?-5
+Added Net: Name=NetX_RFID?_5
+Added Pin To Net: NetName=NetX_RFID?_6 Pin=X_RFID?-6
+Added Net: Name=NetX_RFID?_6
+Added Pin To Net: NetName=NetX_RFID?_7 Pin=X_RFID?-7
+Added Net: Name=NetX_RFID?_7
+Added Pin To Net: NetName=NetX_RFID?_8 Pin=X_RFID?-8
+Added Net: Name=NetX_RFID?_8
+Added Class: Name=ESP_Trägerplatine

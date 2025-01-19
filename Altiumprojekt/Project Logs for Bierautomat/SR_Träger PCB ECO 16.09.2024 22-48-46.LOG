@@ -1,0 +1,40 @@
+Added Pin To Net: NetName=PRes1 Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=PRes2 Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=PRes3 Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-3
+Added Pin To Net: NetName=PRes4 Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-3
+Added Pin To Net: NetName=PRes5 Pin=X5-2
+Added Pin To Net: NetName=GND Pin=X5-3
+Added Pin To Net: NetName=PRes6 Pin=X6-2
+Added Pin To Net: NetName=GND Pin=X6-3
+Added Pin To Net: NetName=PRes7 Pin=X7-2
+Added Pin To Net: NetName=GND Pin=X7-3
+Added Pin To Net: NetName=PRes8 Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X8-3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=X1-4
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=X2-4
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=X3-4
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=X4-4
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=X5-4
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=X6-4
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=X7-4
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=X8-4
+Added Net: Name=NetR8_2
